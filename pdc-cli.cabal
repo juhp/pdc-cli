@@ -27,7 +27,7 @@ executable pdc-cli
                        base < 5,
                        bytestring,
                        pdc,
-                       simple-cmd-args,
+                       simple-cmd-args >= 0.1.6,
                        split,
                        text,
                        unordered-containers,
